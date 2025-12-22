@@ -1,0 +1,21 @@
+How to use the CCS 1.0 scorecard
+
+Enter raw scores only in the Raw score column using the dropdown menus.
+Do not edit formulas or weights.
+
+Raw scores must reflect practices actually implemented and documented in the study or laboratory workflow.
+
+Scores are automatically:
+
+Normalized by indicator-specific maximum values
+
+Weighted according to contamination risk
+
+Aggregated into domain scores, PCS, TS, and final CCS
+
+The CCS is a diagnostic and interpretive tool intended to highlight strengths and gaps in contamination control.
+It is not a compliance checklist, acceptance threshold, or ranking system.
+
+Scores should be interpreted in context, alongside blank data, recovery controls, and analytical limitations.
+
+That’s it. No more.
